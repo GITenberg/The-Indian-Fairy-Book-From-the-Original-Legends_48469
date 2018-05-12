@@ -1,9 +1,13 @@
 _repo: The-Indian-Fairy-Book-From-the-Original-Legends_48469
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Curtis, Florence Choate Elizabeth
     gutenberg_agent_id: '44814'
     url: http://www.gutenberg.org/2009/agents/44814
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schoolcraft, Henry Rowe
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3850
     wikipedia: http://en.wikipedia.org/wiki/Henry_Schoolcraft
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48469#The-Indian-Fairy-Book-From-the-Original-Legends
 gutenberg_issued: '2015-03-12'
 gutenberg_type: Text
 identifiers:
